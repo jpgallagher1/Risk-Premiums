@@ -20,4 +20,4 @@ pyfolio
 
 The code can be executed by itself. It automatically pulls the data from the web, and runs the calculations. 
 
-
+**Please note, Pandas_Datareader is currently broken and cannot pull from IEX.  IEX has migrated their services to their cloud platform, and the module has not been updated.**
